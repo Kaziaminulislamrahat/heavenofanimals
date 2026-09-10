@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" 
+     xmlns:atom="http://www.w3.org/2005/Atom"
+     xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>HeavenOfAnimals</title>
+    <link>https://heavenofanimals.com/blog/</link>
+    <description>Latest posts from HeavenOfAnimals</description>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 10 Sep 2026 13:38:40 GMT</lastBuildDate>
+    <atom:link href="https://heavenofanimals.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <generator>Static Site Generator v2.3.0</generator>
+
+    <item>
+      <title>Vampire Bats Explained: Practical Insights for Real-World Questions</title>
+      <link>https://heavenofanimals.com/wildlife-education/vampire-bats-insights-facts.html</link>
+      <guid isPermaLink="true">https://heavenofanimals.com/wildlife-education/vampire-bats-insights-facts.html</guid>
+      <pubDate>Thu, 10 Sep 2026 11:12:55 GMT</pubDate>
+      <description>Vampire bats inspire a mix of fascination and fear. Most stories you hear focus on blood-drinking and danger, but the real story is far more interesting, and much more useful to know if you deal with livestock, teach others, or just want to get the biology right. Over years of fieldwork and reviewing research, I’ve developed a system for separating fact from myth and building judgment you can rely on in practical situations.
+
+
+If you want to truly understand vampire bats, not just as “creatures</description>
+      <category>Wildlife Education</category>
+      <author>KAI</author>
+    </item>
+  </channel>
+</rss>
