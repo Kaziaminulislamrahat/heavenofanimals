@@ -33,13 +33,6 @@
   </url>
 
   <url>
-    <loc>https://heavenofanimals.com/category/huntsman-spider/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://heavenofanimals.com/category/wildlife-education/</loc>
     
     <changefreq>weekly</changefreq>
@@ -48,6 +41,13 @@
 
   <url>
     <loc>https://heavenofanimals.com/category/bat-facts/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/huntsman-spider/</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -65,6 +65,62 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-guides/huntsman-spider-vs-common-spiders.html</loc>
+    <lastmod>2026-09-12T12:48:42.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-guides/huntsman-spider-behavior-hunting-mating.html</loc>
+    <lastmod>2026-09-12T12:47:45.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-guides/huntsman-spiders-dangerous-bite-facts.html</loc>
+    <lastmod>2026-09-12T12:46:34.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-guides/huntsman-spider-identification.html</loc>
+    <lastmod>2026-09-12T12:45:08.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-guides/huntsman-spider-identification-behavior-safety.html</loc>
+    <lastmod>2026-09-12T12:41:40.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-education/vampire-bat-social-behavior-communication.html</loc>
+    <lastmod>2026-09-12T12:20:40.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-guides/huntsman-spider-pet-care-setup.html</loc>
+    <lastmod>2026-09-12T12:19:10.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-guides/huntsman-spider-myths-misconceptions.html</loc>
+    <lastmod>2026-09-12T12:17:47.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
