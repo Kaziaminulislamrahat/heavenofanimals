@@ -60,6 +60,7 @@ svg{width:1em;height:1em;fill:none;stroke:currentColor;stroke-linecap:round;stro
 .marketing-button:hover,.marketing-button:focus-visible{transform:translateY(-2px)}
 .marketing-button:hover svg,.marketing-text-link:hover svg{transform:translateX(.18rem)}
 .marketing-button--compact{min-height:2.55rem;padding:.62rem .82rem;font-size:.82rem}
+.marketing-header__actions{display:flex;flex:0 0 auto;align-items:center;gap:.5rem}
 .marketing-button--primary{background:var(--relay-blue);color:#fff}
 .marketing-button--primary:hover{background:var(--relay-blue-dark)}
 .marketing-button--outline{border-color:var(--relay-border-strong);background:var(--relay-paper);color:var(--relay-ink)}
@@ -206,7 +207,7 @@ svg{width:1em;height:1em;fill:none;stroke:currentColor;stroke-linecap:round;stro
 @media(max-width:48rem){
   .marketing-publication-bridge{align-items:stretch;flex-direction:column}.marketing-publication-bridge .marketing-button{width:100%}
   .docs-route-grid,.developer-rules,.developer-ownership,.docs-page-columns{grid-template-columns:1fr}.docs-toc{grid-template-columns:repeat(2,1fr)}.docs-page-card header{align-items:flex-start;flex-direction:column}.docs-page-note{display:block}.docs-page-note strong{display:block;margin-bottom:.35rem}
-  .marketing-header__inner{min-height:4.25rem}.marketing-nav{display:none}.marketing-header .marketing-button{margin-left:auto}
+  .marketing-header__inner{min-height:4.25rem}.marketing-nav{display:none}.marketing-header .marketing-button,.marketing-header__actions{margin-left:auto}.marketing-header__actions .marketing-button{margin-left:0}
   .marketing-hero{padding-top:3.5rem}.marketing-hero h1{font-size:clamp(3.2rem,15vw,5.4rem)}
   .proof-strip__grid{grid-template-columns:repeat(2,1fr)}.proof-strip p:nth-child(odd){border-left:1px solid var(--relay-border)}.proof-strip p{border-bottom:1px solid var(--relay-border)}
   .workflow-tabs{grid-template-columns:repeat(3,1fr)}.workflow-tabs button{border-bottom:1px solid #385298}.workflow-panel{grid-template-columns:1fr;min-height:0}
@@ -222,6 +223,9 @@ svg{width:1em;height:1em;fill:none;stroke:currentColor;stroke-linecap:round;stro
      body CTA, so keep the compact non-stretched header control. */
   .marketing-header .marketing-button{display:none}
   .marketing-info-page .marketing-header .marketing-button{display:inline-flex;width:auto;flex:0 0 auto}
+  /* Multi mode shows Sign in and Create account; let the pair drop to its
+     own row on info pages instead of overflowing a 320px viewport. */
+  .marketing-info-page .marketing-header__inner{flex-wrap:wrap;row-gap:.6rem;padding-block:.6rem}
   .relay-console{box-shadow:.55rem .55rem 0 var(--relay-signal)}
   .proof-strip__grid,.capability-grid{grid-template-columns:1fr}.proof-strip p{border-left:1px solid var(--relay-border)}
   .capability-grid article{min-height:auto}.capability-grid h3{margin-top:1.4rem}
