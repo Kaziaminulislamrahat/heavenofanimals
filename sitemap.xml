@@ -19,6 +19,27 @@
   </url>
 
   <url>
+    <loc>https://heavenofanimals.com/category/wildlife-guides/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/spider-facts/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/huntsman-spider/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://heavenofanimals.com/category/wildlife-education/</loc>
     
     <changefreq>weekly</changefreq>
@@ -44,6 +65,34 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-guides/remove-huntsman-spiders-safely.html</loc>
+    <lastmod>2026-09-12T10:37:23.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-guides/huntsman-spider-habitat-locations.html</loc>
+    <lastmod>2026-09-12T10:27:12.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-education/vampire-bat-habitats-roosts.html</loc>
+    <lastmod>2026-09-12T10:22:26.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-education/vampire-bat-feeding-adaptations-techniques.html</loc>
+    <lastmod>2026-09-12T10:20:32.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
