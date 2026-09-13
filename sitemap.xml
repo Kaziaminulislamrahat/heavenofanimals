@@ -19,6 +19,20 @@
   </url>
 
   <url>
+    <loc>https://heavenofanimals.com/category/wolves/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/timber-wolf/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://heavenofanimals.com/category/mantis-care/</loc>
     
     <changefreq>weekly</changefreq>
@@ -212,6 +226,97 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wolves/timber-wolves-captivity-zoos-sanctuaries.html</loc>
+    <lastmod>2026-09-13T11:22:12.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wolves/wolf-management-reintroduction-timber-wolf.html</loc>
+    <lastmod>2026-09-13T11:18:40.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wolves/timber-wolves-ecosystem-role.html</loc>
+    <lastmod>2026-09-13T11:15:48.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wolves/timber-wolf-vs-gray-wolf.html</loc>
+    <lastmod>2026-09-13T11:15:09.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wolves/timber-wolves-mythology-folklore-culture.html</loc>
+    <lastmod>2026-09-13T11:14:34.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wolves/human-timber-wolf-interactions.html</loc>
+    <lastmod>2026-09-13T11:07:44.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wolves/timber-wolf-conservation-status-threats.html</loc>
+    <lastmod>2026-09-13T11:03:08.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wolves/timber-wolf-life-cycle.html</loc>
+    <lastmod>2026-09-13T11:02:21.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wolves/timber-wolf-diet-hunting-strategies.html</loc>
+    <lastmod>2026-09-13T11:01:29.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wolves/timber-wolf-habitat-range.html</loc>
+    <lastmod>2026-09-13T10:57:36.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wolves/timber-wolf-behavior-social-structure.html</loc>
+    <lastmod>2026-09-13T10:56:57.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wolves/timber-wolf-identification-appearance-size.html</loc>
+    <lastmod>2026-09-13T10:51:42.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/timber-wolf/timber-wolf-field-guide.html</loc>
+    <lastmod>2026-09-13T10:46:20.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
