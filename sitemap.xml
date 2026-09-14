@@ -19,6 +19,90 @@
   </url>
 
   <url>
+    <loc>https://heavenofanimals.com/category/marine-life/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/dolphin-facts/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/ocean-wildlife/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/dolphin/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/birdwatching/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/aquatic-warbler/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/wildlife-education/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/zebra-facts/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/zebras/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/wildlife-animals/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/giraffes/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/conservation/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://heavenofanimals.com/category/meerkats/</loc>
     
     <changefreq>weekly</changefreq>
@@ -27,13 +111,6 @@
 
   <url>
     <loc>https://heavenofanimals.com/category/dog/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://heavenofanimals.com/category/dolphin/</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -229,13 +306,6 @@
   </url>
 
   <url>
-    <loc>https://heavenofanimals.com/category/wildlife-education/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://heavenofanimals.com/category/bat-facts/</loc>
     
     <changefreq>weekly</changefreq>
@@ -254,6 +324,139 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/marine-life/atlantic-dolphins-species-identification.html</loc>
+    <lastmod>2026-09-14T12:39:44.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/marine-life/atlantic-dolphin-habitat-distribution.html</loc>
+    <lastmod>2026-09-14T12:37:31.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/marine-life/atlantic-dolphin-behavior-social-structure.html</loc>
+    <lastmod>2026-09-14T12:36:34.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/marine-life/atlantic-dolphins-encounters-conservation.html</loc>
+    <lastmod>2026-09-14T12:35:00.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/birdwatching/aquatic-warbler-spotting-conservation.html</loc>
+    <lastmod>2026-09-14T12:17:13.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-education/zebras-behavior-conservation-guide.html</loc>
+    <lastmod>2026-09-14T12:12:41.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/giraffe-research-discoveries-studies.html</loc>
+    <lastmod>2026-09-14T12:09:11.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/giraffe-symbolism-folklore-art.html</loc>
+    <lastmod>2026-09-14T12:03:02.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/giraffe-care-captivity-zoos-ethics.html</loc>
+    <lastmod>2026-09-14T12:02:13.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/giraffe-conservation-threats-help.html</loc>
+    <lastmod>2026-09-14T12:01:10.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/giraffe-reproduction-mating-gestation-calf.html</loc>
+    <lastmod>2026-09-14T12:00:22.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/giraffe-habitat-geographic-range.html</loc>
+    <lastmod>2026-09-14T11:59:19.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/giraffe-diet-feeding-habits.html</loc>
+    <lastmod>2026-09-14T11:54:14.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/giraffe-behavior-social-communication.html</loc>
+    <lastmod>2026-09-14T11:53:12.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/giraffe-anatomy-savanna-adaptations.html</loc>
+    <lastmod>2026-09-14T11:52:34.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/types-giraffes-species-subspecies.html</loc>
+    <lastmod>2026-09-14T11:51:36.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/giraffe-facts-tallest-animal.html</loc>
+    <lastmod>2026-09-14T11:50:37.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/giraffe-faqs-common-questions.html</loc>
+    <lastmod>2026-09-14T11:49:56.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/wildlife-animals/giraffe-guide-facts-insights.html</loc>
+    <lastmod>2026-09-14T11:49:12.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
