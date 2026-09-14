@@ -26,6 +26,13 @@
   </url>
 
   <url>
+    <loc>https://heavenofanimals.com/category/dolphin/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://heavenofanimals.com/category/general/</loc>
     
     <changefreq>weekly</changefreq>
@@ -240,6 +247,20 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/dog/from-scars-to-snuggles-how-a-rescued-pit-bull-with-mutilated-ears-found-the-love-he-deserved.html</loc>
+    <lastmod>2026-09-14T05:43:22.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/dolphin/prenatal-whispers-why-mother-dolphins-sing-to-their-babies-before-they-are-born.html</loc>
+    <lastmod>2026-09-14T05:41:10.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
