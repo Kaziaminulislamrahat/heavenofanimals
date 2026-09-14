@@ -19,6 +19,13 @@
   </url>
 
   <url>
+    <loc>https://heavenofanimals.com/category/dog/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://heavenofanimals.com/category/general/</loc>
     
     <changefreq>weekly</changefreq>
@@ -233,6 +240,13 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/dog/2021-03-20-paralyzed-puppy-drags-her-legs-for-miles-looking-for-help.html</loc>
+    <lastmod>2026-09-14T05:19:03.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
