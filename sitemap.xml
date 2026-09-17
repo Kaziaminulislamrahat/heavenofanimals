@@ -19,6 +19,34 @@
   </url>
 
   <url>
+    <loc>https://heavenofanimals.com/category/spider-care/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/species-identification/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/zebra-facts/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/animal-behavior/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://heavenofanimals.com/category/marine-life/</loc>
     
     <changefreq>weekly</changefreq>
@@ -62,13 +90,6 @@
 
   <url>
     <loc>https://heavenofanimals.com/category/wildlife-education/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://heavenofanimals.com/category/zebra-facts/</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -264,13 +285,6 @@
   </url>
 
   <url>
-    <loc>https://heavenofanimals.com/category/animal-behavior/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
     <loc>https://heavenofanimals.com/category/insect-care/</loc>
     
     <changefreq>weekly</changefreq>
@@ -324,6 +338,34 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/spider-care/trapdoor-spider-identification-anatomy.html</loc>
+    <lastmod>2026-09-17T17:12:58.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/spider-care/trapdoor-spider-behavior-habitat-troubleshooting.html</loc>
+    <lastmod>2026-09-17T17:10:42.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/zebra-facts/zebras-vs-horses-donkeys-differences.html</loc>
+    <lastmod>2026-09-17T17:09:06.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/zebra-facts/zebra-reproduction-life-cycle.html</loc>
+    <lastmod>2026-09-17T17:08:46.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
