@@ -33,6 +33,48 @@
   </url>
 
   <url>
+    <loc>https://heavenofanimals.com/category/birdwatching/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/endangered-species/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/aquatic-warbler/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/pollinators/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/bee-care/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/category/garden-tips/</loc>
+    
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
     <loc>https://heavenofanimals.com/category/zebra-facts/</loc>
     
     <changefreq>weekly</changefreq>
@@ -69,20 +111,6 @@
 
   <url>
     <loc>https://heavenofanimals.com/category/dolphin/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://heavenofanimals.com/category/birdwatching/</loc>
-    
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-
-  <url>
-    <loc>https://heavenofanimals.com/category/aquatic-warbler/</loc>
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -338,6 +366,62 @@
     
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/spider-care/trapdoor-spiders-ecosystem-role.html</loc>
+    <lastmod>2026-09-17T18:42:14.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/birdwatching/aquatic-warbler-research-monitoring.html</loc>
+    <lastmod>2026-09-17T18:38:52.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/spider-care/trapdoor-spider-habitat-distribution.html</loc>
+    <lastmod>2026-09-17T18:32:48.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/spider-care/trapdoor-spider-species-types.html</loc>
+    <lastmod>2026-09-17T18:31:57.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/pollinators/bumble-bees-honey-bees-wasps-differences.html</loc>
+    <lastmod>2026-09-17T18:31:04.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/pollinators/bumble-bee-stings-allergies-safety.html</loc>
+    <lastmod>2026-09-17T18:27:41.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/pollinators/bumble-bee-lifecycle-queen-colony.html</loc>
+    <lastmod>2026-09-17T18:27:07.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+
+  <url>
+    <loc>https://heavenofanimals.com/spider-care/trapdoor-spider-behavior-hunting-burrows.html</loc>
+    <lastmod>2026-09-17T17:16:39.000Z</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
   </url>
 
   <url>
